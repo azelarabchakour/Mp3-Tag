@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pfeV2.0", "pfeV2.0\pfeV2.0.csproj", "{31E9F096-A9F9-4C32-9354-6DF70AA5B68A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31E9F096-A9F9-4C32-9354-6DF70AA5B68A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31E9F096-A9F9-4C32-9354-6DF70AA5B68A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31E9F096-A9F9-4C32-9354-6DF70AA5B68A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31E9F096-A9F9-4C32-9354-6DF70AA5B68A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5CEC4DF-CBDB-4464-B272-F783275E34F9}
+	EndGlobalSection
+EndGlobal
